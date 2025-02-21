@@ -1,4 +1,4 @@
 # Outbreak Games&Gaming
-![Titelbild](pictures/Titelbild.png)
+![Titelbild](Dok/Pictures/Titelbild.png)
 
 Zombie Ego-Shooter in der Games&amp;Gaming Vorlesung.
